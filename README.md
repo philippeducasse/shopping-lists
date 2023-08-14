@@ -2,7 +2,7 @@
 
 This simple application allows users to create short shopping lists on their mobile devices. It was built using React-Native.
 
-<img src="./assets/SC.jpg" alt="shopping list app screen shot" width="200"/>
+<img src="./assets/SC.jpg" alt="shopping list app screen shot" width="200" margin= "0, auto"/>
 
 ## Technologies Used
 
