@@ -38,4 +38,15 @@ npx create-expo-app ShoppingLists --template
 
 npm start, or expo start
 
-sync Metro Bundler either with your smartphone or using your device emulator to see the app live.
+sync Metro Bundler either with your smartphone or using your device emulator to see the app live.#
+
+## Setting up the Firebase DB
+
+First, navigate to https://firebase.google.com and, if you haven't already, crate a new account. 
+
+then, create a new Firestore database.
+
+    Update the read and write rules so that you can run queries on the database
+    Enable the Anonymous sign-in method.
+
+Install firebase@9.13.0 using npm

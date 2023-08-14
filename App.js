@@ -15,6 +15,8 @@ import Welcome from './components/Welcome';
 // Initialize Firebase
 
 const App = () => {
+
+  // these are the firbase DB credentials
   const firebaseConfig = {
 
     apiKey: "AIzaSyD9LXf4NyHOqiEV6qCbbNmroDYyPSasppE",
