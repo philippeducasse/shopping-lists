@@ -11,6 +11,7 @@ This simple application allows users to create short shopping lists on their mob
 - React Native Gifted Chat library
 - Google Firestore DB
 - Google Firebase Anonymous Authentication
+- AsyncStorage for data caching
 
 ## Key Features
 
